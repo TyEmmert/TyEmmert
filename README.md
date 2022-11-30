@@ -1,4 +1,4 @@
-Hi, I’m @TyEmmert
+Hello, I’m @TyEmmert.
 I’m interested in Data Analytics and Data Science.
 I’m currently learning how to code in rstudio.
 I’m looking to explore mathematics in data using rstudio.
